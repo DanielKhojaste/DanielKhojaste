@@ -2,7 +2,7 @@
 
 # Daniel Khojaste
 
-### Full-Stack Software Developer
+<h3 align="center"><big>Full-Stack Software Developer</big></h3>
 
 I build software from idea to deployment across frontend, backend, APIs, databases, testing, and UI.
 
@@ -10,7 +10,7 @@ I build software from idea to deployment across frontend, backend, APIs, databas
 
 <br>
 
-<img src="./Daniel's Odyssey - Transparent.png" alt="Daniel Khojaste" width="260" />
+<img src="./Daniel's Odyssey - Cover.png" alt="Daniel Khojaste" width="700" />
 
 </div>
 
@@ -18,7 +18,7 @@ I build software from idea to deployment across frontend, backend, APIs, databas
 
 Hiring managers and recruiters: tired of looking at boring resumes all day?
 
-Send me your tech stack, tell me what you want to see, and go grab a cup of Earl Grey tea **(it's really good, trust me)**. Give me up to a week and I'll give you something more interesting to look at — a working, deployed project you can hand to your tech lead and actually discuss.
+Send me your tech stack, tell me what you want to see, and go grab a cup of Earl Grey tea **(it's really good, trust me)**. Give me up to a week and I'll give you something more interesting to look at: a working, deployed project you can hand to your tech lead and actually discuss.
 
 I would much rather show you what I can build than ask you to take my word for it.
 
@@ -44,7 +44,7 @@ I am a full-stack software developer who enjoys understanding how all the pieces
 
 I learn new frameworks and technologies quickly, but the goal is never just to collect tools. I like turning what I learn into something real, useful, documented, and deployed.
 
-I completed the **Web Development & Internet Applications** program at **Algonquin College** and made the **Dean's Honours List three times**.
+I completed the **Web Development & Internet Applications** program at **Algonquin College** and made the **Dean's Honours List** three times.
 
 ## Skills
 
@@ -88,8 +88,6 @@ A multi-page AI security website built around reusable frontend components, resp
 
 [![ApotheonAI homepage](https://raw.githubusercontent.com/DanielKhojaste/apotheon-ai/main/screenshots/home-hero.png)](https://apotheon-ai.vercel.app/)
 
-[View source](https://github.com/DanielKhojaste/apotheon-ai)
-
 ### [Lineup](https://github.com/DanielKhojaste/lineup)
 
 **React | TypeScript | Rust | Tauri | dnd-kit**
@@ -116,7 +114,11 @@ If you have a stack or a challenge in mind, send it my way.
 **LinkedIn:** [linkedin.com/in/aref-khojaste](https://www.linkedin.com/in/aref-khojaste/)  
 **GitHub:** [github.com/DanielKhojaste](https://github.com/DanielKhojaste)
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielKhojaste&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Daniel Khojaste's most used languages" />
+</p>
+
+<div align="right">
 
 **Tell me your stack. Give me a challenge.**
 
