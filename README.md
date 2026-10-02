@@ -16,67 +16,33 @@ I build software from idea to deployment across frontend, backend, APIs, databas
 
 ## Give me your stack. Give me a challenge.
 
-Hiring managers and recruiters: tired of looking at boring resumes all day?
+Hiring managers and recruiters: tired of reading the same resumes?
 
-Send me your tech stack, tell me what you want to see, and go grab a cup of Earl Grey tea **(it's really good, trust me)**. Give me up to a week and I'll give you something more interesting to look at: a working, deployed project you can hand to your tech lead and actually discuss.
+Send me your **tech stack**, a **scoped problem**, and what you want to see. Give me up to a week and I will build something real your tech lead can review.
 
-I would much rather show you what I can build than ask you to take my word for it.
+🟣 **Working, deployed software**  
+🟡 **Clean code, docs, and a changelog**  
+🟣 **Testing where it makes sense**  
+🟡 **Figma mockups when original UI is needed**
 
-For a scoped challenge, I can deliver:
-
-- A live, deployed project
-- Clean, maintainable source code
-- Clear project documentation
-- A changelog showing how the project evolved
-- Testing where it makes sense
-- Figma mockups when the project calls for original UI design
-- A short explanation of the decisions, tradeoffs, and lessons behind the build
-
-Want AI-assisted development? Great.
-
-Want to see what I can build without AI? Absolutely.
-
-**Tell me the stack, the requirements, and the problem. Test me.**
+**AI-assisted or not, your call. Give me the stack and test me.**
 
 ## About me
 
-I am a full-stack software developer who enjoys understanding how all the pieces of an application fit together. I am comfortable moving between frontend interfaces, backend services, APIs, databases, testing, and deployment, and I enjoy the design side of the process too.
+I'm a full-stack developer and a graduate of Algonquin College's **Web Development & Internet Applications** program, where I made the **Dean's Honours List three times**.
 
-I learn new frameworks and technologies quickly, but the goal is never just to collect tools. I like turning what I learn into something real, useful, documented, and deployed.
-
-I completed the **Web Development & Internet Applications** program at **Algonquin College** and made the **Dean's Honours List** three times.
+I enjoy learning new technologies quickly and turning them into software that is useful, understandable, and ready to ship.
 
 ## Skills
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,php,rust&perline=8" alt="JavaScript, TypeScript, Python, Java, C#, PHP, Rust" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,html,css,tailwind&perline=8" alt="React, Next.js, Astro, HTML, CSS, Tailwind CSS" />
-</p>
-
-### Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&perline=8" alt="Node.js, Express.js, MySQL" />
-</p>
-
-### Testing & Developer Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,postman&perline=8" alt="Git, Docker, Postman" />
-</p>
-
-**Also:** Playwright, Selenium, REST APIs, JSON, MariaDB, Sanity CMS, GROQ
-
-### AI Development Tools
-
-OpenAI Codex, Claude Code, Cursor, GitHub Copilot
+| Area                | Technologies                                                                                                                                                                                                                                                                                                           |
+| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Languages**       | <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,php,rust&perline=8" alt="JavaScript, TypeScript, Python, Java, C#, PHP, Rust" />                                                                                                                                                                         |
+| **Frontend**        | <img src="https://skillicons.dev/icons?i=react,nextjs,astro,html,css,tailwind&perline=8" alt="React, Next.js, Astro, HTML, CSS, Tailwind CSS" />                                                                                                                                                                       |
+| **Backend & Data**  | <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&perline=8" alt="Node.js, Express.js, MySQL" /> &nbsp; MariaDB &nbsp; REST APIs &nbsp; JSON                                                                                                                                                               |
+| **Testing & Tools** | <img src="https://skillicons.dev/icons?i=git,docker,postman&perline=8" alt="Git, Docker, Postman" /> &nbsp; <img src="https://cdn.simpleicons.org/playwright" alt="Playwright" title="Playwright" width="42" height="42" /> &nbsp; Selenium                                                                            |
+| **CMS & Platforms** | <img src="https://cdn.simpleicons.org/sanity" alt="Sanity CMS" title="Sanity CMS" width="42" height="42" /> &nbsp; <img src="https://cdn.simpleicons.org/vercel/000000/FFFFFF" alt="Vercel" title="Vercel" width="42" height="42" /> &nbsp; GROQ                                                                       |
+| **AI Development**  | <img src="https://cdn.simpleicons.org/openai/000000/FFFFFF" alt="OpenAI" title="OpenAI" width="42" height="42" /> &nbsp; <img src="https://cdn.simpleicons.org/githubcopilot/000000/FFFFFF" alt="GitHub Copilot" title="GitHub Copilot" width="42" height="42" /> &nbsp; OpenAI Codex &nbsp; Claude Code &nbsp; Cursor |
 
 ## Featured projects
 
@@ -102,9 +68,9 @@ A stakeholder-driven team project where I worked on data extraction, software qu
 
 ## How I like to work
 
-I care about shipping, but I also care about leaving a project understandable after it ships. That means readable code, sensible structure, documentation, version history, testing, and thoughtful UI decisions.
-
-I am especially interested in opportunities where I can learn quickly, take ownership of a real problem, and prove what I can deliver through working software.
+🟣 **Build first.** I prefer proving skills with working software.  
+🟡 **Keep it clear.** Clean code, useful docs, and sensible structure.  
+🟣 **Keep learning.** New tools are worth learning when they help solve the problem.
 
 ## Get in touch
 
@@ -120,6 +86,7 @@ If you have a stack or a challenge in mind, send it my way.
 
 <div align="right">
 
-**Tell me your stack. Give me a challenge.**
+**Tell me your stack.**  
+**Give me a challenge.**
 
 </div>
