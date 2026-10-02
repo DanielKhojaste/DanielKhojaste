@@ -18,37 +18,98 @@ I build software from idea to deployment across frontend, backend, APIs, databas
 
 Hiring managers and recruiters: tired of reading the same resumes?
 
-Send me your **tech stack**, a **scoped problem**, and what you want to see. Give me up to a week and I will build something real your tech lead can review.
+Send me your **tech stack**, a **scoped problem**, and what you want to see. Give me up to a week and I will turn it into something real your tech lead can review.
 
-🟣 **Working, deployed software**  
-🟡 **Clean code, docs, and a changelog**  
-🟣 **Testing where it makes sense**  
-🟡 **Figma mockups when original UI is needed**
+🟪 **Design** original UI in Figma when the project calls for it  
+🟪 **Build** clean, maintainable software across the stack  
+🟪 **Test** critical flows with automated testing  
+🟪 **Document** setup, decisions, and progress clearly  
+🟣 **Launch** a live project you can open, use, and review
 
 **AI-assisted or not, your call. Give me the stack and test me.**
 
 ## About me
 
-I'm a full-stack developer and a graduate of Algonquin College's **Web Development & Internet Applications** program, where I made the **Dean's Honours List three times**.
+I'm a full-stack developer and a graduate of Algonquin College's **Web Development & Internet Applications** program. I made the **Dean's Honours List** three times!
 
-I enjoy learning new technologies quickly and turning them into software that is useful, understandable, and ready to ship.
+I work across frontend, backend, REST APIs, databases, testing, and deployment. I learn new technologies quickly and turn them into software that is useful and ready to ship.
 
 ## Skills
 
-| Area                | Technologies                                                                                                                                                                                                                                                                                                           |
-| ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Languages**       | <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,php,rust&perline=8" alt="JavaScript, TypeScript, Python, Java, C#, PHP, Rust" />                                                                                                                                                                         |
-| **Frontend**        | <img src="https://skillicons.dev/icons?i=react,nextjs,astro,html,css,tailwind&perline=8" alt="React, Next.js, Astro, HTML, CSS, Tailwind CSS" />                                                                                                                                                                       |
-| **Backend & Data**  | <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&perline=8" alt="Node.js, Express.js, MySQL" /> &nbsp; MariaDB &nbsp; REST APIs &nbsp; JSON                                                                                                                                                               |
-| **Testing & Tools** | <img src="https://skillicons.dev/icons?i=git,docker,postman&perline=8" alt="Git, Docker, Postman" /> &nbsp; <img src="https://cdn.simpleicons.org/playwright" alt="Playwright" title="Playwright" width="42" height="42" /> &nbsp; Selenium                                                                            |
-| **CMS & Platforms** | <img src="https://cdn.simpleicons.org/sanity" alt="Sanity CMS" title="Sanity CMS" width="42" height="42" /> &nbsp; <img src="https://cdn.simpleicons.org/vercel/000000/FFFFFF" alt="Vercel" title="Vercel" width="42" height="42" /> &nbsp; GROQ                                                                       |
-| **AI Development**  | <img src="https://cdn.simpleicons.org/openai/000000/FFFFFF" alt="OpenAI" title="OpenAI" width="42" height="42" /> &nbsp; <img src="https://cdn.simpleicons.org/githubcopilot/000000/FFFFFF" alt="GitHub Copilot" title="GitHub Copilot" width="42" height="42" /> &nbsp; OpenAI Codex &nbsp; Claude Code &nbsp; Cursor |
+<table align="center">
+  <tr>
+    <th align="center">Area</th>
+    <th align="center">Technologies</th>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><strong>Languages</strong></td>
+    <td align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,php,rust&perline=8" alt="JavaScript, TypeScript, Python, Java, C#, PHP, Rust" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><strong>Frontend</strong></td>
+    <td align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,astro,html,css,tailwind&perline=8" alt="React, Next.js, Astro, HTML, CSS, Tailwind CSS" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><strong>Backend &amp; Data</strong></td>
+    <td align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&perline=8" alt="Node.js, Express.js, MySQL" />
+      &nbsp;
+      <img src="https://cdn.simpleicons.org/mariadb?viewbox=auto" alt="MariaDB" title="MariaDB" width="48" height="48" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><strong>Testing &amp; Tools</strong></td>
+    <td align="center" valign="middle">
+      <img src="https://skillicons.dev/icons?i=git,docker,postman,selenium&perline=8" alt="Git, Docker, Postman, Selenium" />
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" width="48" height="48" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><strong>CMS &amp; Platforms</strong></td>
+    <td align="center" valign="middle">
+      <img src="https://cdn.simpleicons.org/sanity/F03E2F?viewbox=auto" alt="Sanity CMS" title="Sanity CMS" width="48" height="48" />
+      &nbsp;
+      <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" />
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle"><strong>AI Development</strong></td>
+    <td align="center" valign="middle">
+      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/codex-light.svg" alt="OpenAI Codex" title="OpenAI Codex" width="48" height="48" />
+      &nbsp;
+      <img src="https://cdn.simpleicons.org/claudecode/D97757?viewbox=auto" alt="Claude Code" title="Claude Code" width="48" height="48" />
+      &nbsp;
+      <img src="https://cdn.simpleicons.org/cursor/7C3AED?viewbox=auto" alt="Cursor" title="Cursor" width="48" height="48" />
+      &nbsp;
+      <img src="https://cdn.simpleicons.org/githubcopilot/7C3AED?viewbox=auto" alt="GitHub Copilot" title="GitHub Copilot" width="48" height="48" />
+    </td>
+  </tr>
+</table>
 
 ## Featured projects
 
 ### [ApotheonAI](https://apotheon-ai.vercel.app/)
 
-**Astro | TypeScript | Tailwind CSS | Sanity CMS | GROQ | Playwright | Vercel**
+<p>
+  <img src="https://img.shields.io/badge/Astro-111111?style=flat-square&logo=astro&logoColor=white" alt="Astro" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-111111?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Sanity_CMS-111111?style=flat-square&logo=sanity&logoColor=white" alt="Sanity CMS" />
+  <img src="https://img.shields.io/badge/GROQ-111111?style=flat-square" alt="GROQ" />
+  <img src="https://img.shields.io/badge/Playwright-111111?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" />
+  <img src="https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
 A multi-page AI security website built around reusable frontend components, responsive and accessible UI, structured CMS content, dynamic routes, and browser-based end-to-end testing.
 
@@ -56,37 +117,54 @@ A multi-page AI security website built around reusable frontend components, resp
 
 ### [Lineup](https://github.com/DanielKhojaste/lineup)
 
-**React | TypeScript | Rust | Tauri | dnd-kit**
+<p>
+  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Rust-111111?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/Tauri-111111?style=flat-square&logo=tauri&logoColor=white" alt="Tauri" />
+  <img src="https://img.shields.io/badge/dnd--kit-111111?style=flat-square" alt="dnd-kit" />
+</p>
 
 A tactical board desktop application with interactive drag-and-drop editing and a domain-driven node system designed to make new functionality easier to extend.
 
 ### [PlantPlotter](https://www.plantplotter.app/)
 
-**Python | Scrapy | Git | Kanban**
+<p>
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Scrapy-111111?style=flat-square&logo=scrapy&logoColor=white" alt="Scrapy" />
+  <img src="https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Kanban-111111?style=flat-square" alt="Kanban" />
+</p>
 
 A stakeholder-driven team project where I worked on data extraction, software quality, deployment, debugging, pull requests, code reviews, and client feedback.
 
 ## How I like to work
 
-🟣 **Build first.** I prefer proving skills with working software.  
-🟡 **Keep it clear.** Clean code, useful docs, and sensible structure.  
-🟣 **Keep learning.** New tools are worth learning when they help solve the problem.
+<table>
+  <tr>
+    <td valign="middle" width="55%">
+      🟨 <strong>Build</strong> end to end.<br><br>
+      🟨 <strong>Design</strong> with intent.<br><br>
+      🟨 <strong>Test</strong> what matters.<br><br>
+      🟨 <strong>Document</strong> as I go.<br><br>
+      🟡 <strong>Own</strong> the result.
+    </td>
+    <td align="right" valign="middle" width="45%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielKhojaste&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Daniel Khojaste's most used languages" />
+    </td>
+  </tr>
+</table>
 
 ## Get in touch
 
 If you have a stack or a challenge in mind, send it my way.
 
-**Email:** [danielkhojaste101@gmail.com](mailto:danielkhojaste101@gmail.com)  
-**LinkedIn:** [linkedin.com/in/aref-khojaste](https://www.linkedin.com/in/aref-khojaste/)  
-**GitHub:** [github.com/DanielKhojaste](https://github.com/DanielKhojaste)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielKhojaste&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Daniel Khojaste's most used languages" />
-</p>
+[Email](mailto:danielkhojaste101@gmail.com) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/aref-khojaste/) &nbsp;&nbsp; [GitHub](https://github.com/DanielKhojaste)
 
 <div align="right">
 
-**Tell me your stack.**  
-**Give me a challenge.**
+**Name the stack.**  
+**Set the challenge.**  
+**See it happen.**
 
 </div>
