@@ -2,23 +2,27 @@
 
 # Daniel Khojaste
 
-### Full-Stack Software Developer - Ottawa, Canada
+### Full-Stack Software Developer
 
-I build software from idea to deployment across the frontend, backend, APIs, databases, testing, and UI.
+I build software from idea to deployment across frontend, backend, APIs, databases, testing, and UI.
 
-[LinkedIn](https://www.linkedin.com/in/aref-khojaste/) &nbsp;&nbsp; [GitHub](https://github.com/DanielKhojaste) &nbsp;&nbsp; [Email](mailto:danielkhojaste101@gmail.com) &nbsp;&nbsp; [ApotheonAI](https://apotheon-ai.vercel.app/)
+[LinkedIn](https://www.linkedin.com/in/aref-khojaste/) &nbsp;&nbsp; [GitHub](https://github.com/DanielKhojaste) &nbsp;&nbsp; [Email](mailto:danielkhojaste101@gmail.com)
+
+<br>
+
+<img src="./Daniel's Odyssey - Transparent.png" alt="Daniel Khojaste" width="260" />
 
 </div>
 
 ## Give me your stack. Give me a challenge.
 
-I have a challenge for hiring managers and tech leads:
+Hiring managers and recruiters: tired of looking at boring resumes all day?
 
-**Test me.**
+Send me your tech stack, tell me what you want to see, and go grab a cup of Earl Grey tea **(it's really good, trust me)**. Give me up to a week and I'll give you something more interesting to look at — a working, deployed project you can hand to your tech lead and actually discuss.
 
-If your team is hiring, send me your tech stack and a scoped problem worth solving. I will build and deploy a working project with it **within one week**.
+I would much rather show you what I can build than ask you to take my word for it.
 
-What I will deliver:
+For a scoped challenge, I can deliver:
 
 - A live, deployed project
 - Clean, maintainable source code
@@ -28,13 +32,11 @@ What I will deliver:
 - Figma mockups when the project calls for original UI design
 - A short explanation of the decisions, tradeoffs, and lessons behind the build
 
-Want me to use AI as part of the development process? Great.
+Want AI-assisted development? Great.
 
-Want me to build it without AI? Absolutely.
+Want to see what I can build without AI? Absolutely.
 
-The point is simple: **I would rather show you what I can build than ask you to take my word for it.**
-
-> If you are hiring, tell me your stack, the requirements, and the problem. Let me demonstrate how I approach it.
+**Tell me the stack, the requirements, and the problem. Test me.**
 
 ## About me
 
@@ -44,25 +46,37 @@ I learn new frameworks and technologies quickly, but the goal is never just to c
 
 I completed the **Web Development & Internet Applications** program at **Algonquin College** and made the **Dean's Honours List three times**.
 
-## Tech I work with
+## Skills
 
-**Languages**  
-JavaScript | TypeScript | Python | Java | C# | PHP | Rust
+### Languages
 
-**Frontend**  
-React | Next.js | Astro | HTML | CSS | Tailwind CSS
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,php,rust&perline=8" alt="JavaScript, TypeScript, Python, Java, C#, PHP, Rust" />
+</p>
 
-**Backend & APIs**  
-Node.js | Express.js | REST APIs | JSON
+### Frontend
 
-**Databases**  
-MySQL | MariaDB
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,astro,html,css,tailwind&perline=8" alt="React, Next.js, Astro, HTML, CSS, Tailwind CSS" />
+</p>
 
-**Testing & developer tools**  
-Playwright | Selenium | Postman | Git | Docker
+### Backend & Databases
 
-**AI development tools**  
-OpenAI Codex | Claude Code | Cursor | GitHub Copilot
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&perline=8" alt="Node.js, Express.js, MySQL" />
+</p>
+
+### Testing & Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,postman&perline=8" alt="Git, Docker, Postman" />
+</p>
+
+**Also:** Playwright, Selenium, REST APIs, JSON, MariaDB, Sanity CMS, GROQ
+
+### AI Development Tools
+
+OpenAI Codex, Claude Code, Cursor, GitHub Copilot
 
 ## Featured projects
 
@@ -82,8 +96,6 @@ A multi-page AI security website built around reusable frontend components, resp
 
 A tactical board desktop application with interactive drag-and-drop editing and a domain-driven node system designed to make new functionality easier to extend.
 
-[View source](https://github.com/DanielKhojaste/lineup)
-
 ### [PlantPlotter](https://www.plantplotter.app/)
 
 **Python | Scrapy | Git | Kanban**
@@ -96,16 +108,9 @@ I care about shipping, but I also care about leaving a project understandable af
 
 I am especially interested in opportunities where I can learn quickly, take ownership of a real problem, and prove what I can deliver through working software.
 
-## Want to put the challenge to the test?
+## Get in touch
 
-If you are a hiring manager, tech lead, founder, or developer on a team that is hiring, send me:
-
-1. Your stack
-2. A scoped problem or feature
-3. Any constraints you want me to follow
-4. Whether AI-assisted development is allowed
-
-I will take it from there.
+If you have a stack or a challenge in mind, send it my way.
 
 **Email:** [danielkhojaste101@gmail.com](mailto:danielkhojaste101@gmail.com)  
 **LinkedIn:** [linkedin.com/in/aref-khojaste](https://www.linkedin.com/in/aref-khojaste/)  
