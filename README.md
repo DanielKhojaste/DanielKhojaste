@@ -147,20 +147,24 @@ A stakeholder-driven team project where I worked on data extraction, software qu
 
 ## How I like to work
 
-<table>
-  <tr>
-    <td valign="middle" width="55%">
-      🟨 <strong>Build</strong> end to end.<br><br>
-      🟨 <strong>Design</strong> with intent.<br><br>
-      🟨 <strong>Test</strong> what matters.<br><br>
-      🟨 <strong>Document</strong> as I go.<br><br>
-      🟡 <strong>Own</strong> the result.
-    </td>
-    <td align="right" valign="middle" width="45%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielKhojaste&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Daniel Khojaste's most used languages" />
-    </td>
-  </tr>
-</table>
+<img
+  align="right"
+  src="https://gitglance-eight.vercel.app/api/donut?username=DanielKhojaste&style=minimal&theme=light&langs_count=6&hide_border=true&width=420&title=Most%20Used%20Languages"
+  alt="Daniel Khojaste's most used languages"
+  width="420"
+/>
+
+🟨 **Build** end to end.
+
+🟨 **Design** with intent.
+
+🟨 **Test** what matters.
+
+🟨 **Document** as I go.
+
+🟡 **Own** the result.
+
+<br clear="right">
 
 ## Get in touch
 
