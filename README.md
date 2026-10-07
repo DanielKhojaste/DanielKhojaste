@@ -113,7 +113,7 @@ A stakeholder-driven team project where I worked on data extraction, software qu
 
 <img
   align="right"
-  src="https://ghstats.dev/api/langs?username=DanielKhojaste&theme=light&layout=stacked&max_langs=12&custom_title=Most%20Used%20Languages&border_radius=12"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=DanielKhojaste&layout=compact&langs_count=10&card_width=495&theme=transparent&hide_border=true"
   alt="Daniel Khojaste's most used languages"
   width="495"
 />
