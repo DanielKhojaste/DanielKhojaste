@@ -113,7 +113,7 @@ A stakeholder-driven team project where I worked on data extraction, software qu
 
 <img
   align="right"
-  src="https://gitcard-studio.creativecode.com.co/api/languages?username=DanielKhojaste&theme=light&locale=en&card_width=495"
+  src="https://ghstats.dev/api/langs?username=DanielKhojaste&theme=light&layout=stacked&max_langs=12&custom_title=Most%20Used%20Languages&border_radius=12"
   alt="Daniel Khojaste's most used languages"
   width="495"
 />
