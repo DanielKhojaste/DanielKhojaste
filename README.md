@@ -4,13 +4,13 @@
 
 <h3 align="center"><big>Full-Stack Software Developer</big></h3>
 
-I build software from idea to deployment across frontend, backend, APIs, databases, testing, and UI.
+I turn ideas into polished, working software, from the first screen to the final deploy.
 
 [LinkedIn](https://www.linkedin.com/in/aref-khojaste/) &nbsp;&nbsp; [GitHub](https://github.com/DanielKhojaste) &nbsp;&nbsp; [Email](mailto:danielkhojaste101@gmail.com)
 
 <br>
 
-<img src="./Daniel's Odyssey - Cover.png" alt="Daniel Khojaste" width="700" />
+<img src="./assets/Daniel's Odyssey - Cover.png" alt="Daniel Khojaste" width="700" />
 
 </div>
 
@@ -18,21 +18,22 @@ I build software from idea to deployment across frontend, backend, APIs, databas
 
 Hiring managers and recruiters: tired of reading the same resumes?
 
-Send me your **tech stack**, a **scoped problem**, and what you want to see. Give me up to a week and I will turn it into something real your tech lead can review.
+Send me your **tech stack**, a **scoped problem**, and what you want to see.  
+Give me up to a week and I will turn it into something real your tech lead can review.
 
-🟪 **Design** original UI in Figma when the project calls for it  
+🟪 **Design** polished interfaces and prototypes in Figma  
 🟪 **Build** clean, maintainable software across the stack  
-🟪 **Test** critical flows with automated testing  
-🟪 **Document** setup, decisions, and progress clearly  
+🟪 **Test** critical flows with automated coverage  
+🟪 **Document** the build clearly from setup to handoff  
 🟣 **Launch** a live project you can open, use, and review
 
-**AI-assisted or not, your call. Give me the stack and test me.**
+**AI-assisted or fully manual, your call. I'm more than happy to build without AI, and I'm comfortable coding live in an interview.**
 
 ## About me
 
-I'm a full-stack developer and a graduate of Algonquin College's **Web Development & Internet Applications** program. I made the **Dean's Honours List** three times!
+I'm a full-stack developer and a graduate of Algonquin College's **Web Development & Internet Applications** program, where I made the **Dean's Honours List** three times!
 
-I work across frontend, backend, REST APIs, databases, testing, and deployment. I learn new technologies quickly and turn them into software that is useful and ready to ship.
+Based in Canada and willing to relocate. I work across frontend, backend, REST APIs, databases, testing, and deployment, and I learn new technologies quickly by putting them to work.
 
 ## Skills
 
@@ -61,7 +62,7 @@ I work across frontend, backend, REST APIs, databases, testing, and deployment. 
     <td align="center" valign="middle">
       <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&perline=8" alt="Node.js, Express.js, MySQL" />
       &nbsp;
-      <img src="https://cdn.simpleicons.org/mariadb?viewbox=auto" alt="MariaDB" title="MariaDB" width="48" height="48" />
+      <img src="https://cdn.simpleicons.org/mariadb/003545" alt="MariaDB" title="MariaDB" width="48" height="48" />
     </td>
   </tr>
 
@@ -77,7 +78,7 @@ I work across frontend, backend, REST APIs, databases, testing, and deployment. 
   <tr>
     <td align="center" valign="middle"><strong>CMS &amp; Platforms</strong></td>
     <td align="center" valign="middle">
-      <img src="https://cdn.simpleicons.org/sanity/F03E2F?viewbox=auto" alt="Sanity CMS" title="Sanity CMS" width="48" height="48" />
+      <img src="https://cdn.simpleicons.org/sanity/0D0E12/FFFFFF" alt="Sanity CMS" title="Sanity CMS" width="48" height="48" />
       &nbsp;
       <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" />
     </td>
@@ -86,13 +87,19 @@ I work across frontend, backend, REST APIs, databases, testing, and deployment. 
   <tr>
     <td align="center" valign="middle"><strong>AI Development</strong></td>
     <td align="center" valign="middle">
-      <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/codex-light.svg" alt="OpenAI Codex" title="OpenAI Codex" width="48" height="48" />
+      <img src="./assets/codex.svg" alt="OpenAI Codex" title="OpenAI Codex" width="48" height="48" />
       &nbsp;
-      <img src="https://cdn.simpleicons.org/claudecode/D97757?viewbox=auto" alt="Claude Code" title="Claude Code" width="48" height="48" />
+      <img src="./assets/claude-code.svg" alt="Claude Code" title="Claude Code" width="48" height="48" />
       &nbsp;
-      <img src="https://cdn.simpleicons.org/cursor/7C3AED?viewbox=auto" alt="Cursor" title="Cursor" width="48" height="48" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/cursor-dark.svg" />
+        <img src="./assets/cursor-light.svg" alt="Cursor" title="Cursor" width="48" height="48" />
+      </picture>
       &nbsp;
-      <img src="https://cdn.simpleicons.org/githubcopilot/7C3AED?viewbox=auto" alt="GitHub Copilot" title="GitHub Copilot" width="48" height="48" />
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="./assets/github-copilot-dark.svg" />
+        <img src="./assets/github-copilot-light.svg" alt="GitHub Copilot" title="GitHub Copilot" width="48" height="48" />
+      </picture>
     </td>
   </tr>
 </table>
