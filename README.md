@@ -42,65 +42,29 @@ Based in Canada and willing to relocate. I work across frontend, backend, REST A
     <th align="center">Area</th>
     <th align="center">Technologies</th>
   </tr>
-
-<tr>
+  <tr>
     <td align="center" valign="middle"><strong>Languages</strong></td>
-    <td align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,php,rust&perline=8" alt="JavaScript, TypeScript, Python, Java, C#, PHP, Rust" />
-    </td>
+    <td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,php,rust&perline=8" alt="JavaScript, TypeScript, Python, Java, C#, PHP, Rust" /></td>
   </tr>
-
-<tr>
+  <tr>
     <td align="center" valign="middle"><strong>Frontend</strong></td>
-    <td align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,astro,html,css,tailwind&perline=8" alt="React, Next.js, Astro, HTML, CSS, Tailwind CSS" />
-    </td>
+    <td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=react,nextjs,astro,html,css,tailwind&perline=8" alt="React, Next.js, Astro, HTML, CSS, Tailwind CSS" /></td>
   </tr>
-
-<tr>
-    <td align="center" valign="middle"><strong>Backend & Data</strong></td>
-    <td align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mysql&perline=8" alt="Node.js, Express.js, MySQL" />
-       
-      <img src="https://cdn.simpleicons.org/mariadb/003545" alt="MariaDB" title="MariaDB" width="48" height="48" />
-    </td>
+  <tr>
+    <td align="center" valign="middle"><strong>Backend &amp; Data</strong></td>
+    <td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=nodejs,express,mysql&perline=8" alt="Node.js, Express.js, MySQL" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mariadb/003545" alt="MariaDB" title="MariaDB" width="48" height="48" /></td>
   </tr>
-
-<tr>
-    <td align="center" valign="middle"><strong>Testing & Tools</strong></td>
-    <td align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=git,docker,postman,selenium&perline=8" alt="Git, Docker, Postman, Selenium" />
-       
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" width="48" height="48" />
-    </td>
+  <tr>
+    <td align="center" valign="middle"><strong>Testing &amp; Tools</strong></td>
+    <td align="center" valign="middle"><img src="https://skillicons.dev/icons?i=git,docker,postman,selenium&perline=8" alt="Git, Docker, Postman, Selenium" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" width="48" height="48" /></td>
   </tr>
-
-<tr>
-    <td align="center" valign="middle"><strong>CMS & Platforms</strong></td>
-    <td align="center" valign="middle">
-      <img src="https://cdn.simpleicons.org/sanity/0D0E12/FFFFFF" alt="Sanity CMS" title="Sanity CMS" width="48" height="48" />
-       
-      <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" />
-    </td>
+  <tr>
+    <td align="center" valign="middle"><strong>CMS &amp; Platforms</strong></td>
+    <td align="center" valign="middle"><img src="https://cdn.simpleicons.org/sanity/0D0E12/FFFFFF" alt="Sanity CMS" title="Sanity CMS" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" /></td>
   </tr>
-
-<tr>
+  <tr>
     <td align="center" valign="middle"><strong>AI Development</strong></td>
-    <td align="center" valign="middle">
-      <img src="./assets/codex.svg" alt="OpenAI Codex" title="OpenAI Codex" width="48" height="48" />
-       
-      <img src="./assets/claude-code.svg" alt="Claude Code" title="Claude Code" width="48" height="48" />
-       
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/cursor-dark.svg" />
-        <img src="./assets/cursor-light.svg" alt="Cursor" title="Cursor" width="48" height="48" />
-      </picture>
-       
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="./assets/github-copilot-dark.svg" />
-        <img src="./assets/github-copilot-light.svg" alt="GitHub Copilot" title="GitHub Copilot" width="48" height="48" />
-      </picture>
-    </td>
+    <td align="center" valign="middle"><img src="./assets/codex.svg" alt="OpenAI Codex" title="OpenAI Codex" width="48" height="48" />&nbsp;&nbsp;<img src="./assets/claude-code.svg" alt="Claude Code" title="Claude Code" width="48" height="48" />&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cursor-dark.svg" /><img src="./assets/cursor-light.svg" alt="Cursor" title="Cursor" width="48" height="48" /></picture>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/github-copilot-dark.svg" /><img src="./assets/github-copilot-light.svg" alt="GitHub Copilot" title="GitHub Copilot" width="48" height="48" /></picture></td>
   </tr>
 </table>
 
