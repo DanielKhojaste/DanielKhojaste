@@ -130,6 +130,10 @@ A stakeholder-driven team project where I worked on data extraction, software qu
 
 <br clear="right">
 
+<p align="center">
+  <img src="./assets/hans-zimmer-recently-played-wide.png" alt="Recently played track card for Hans Zimmer - What Are You Going To... from Live in Prague" width="100%" />
+</p>
+
 ## Get in touch
 
 If you have a stack or a challenge in mind, send it my way.
