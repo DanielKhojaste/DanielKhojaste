@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/odyssey-header.png" alt="Daniel Khojaste header" width="100%" />
+<img src="./assets/Daniel's Odyssey - Cover.png" alt="Daniel Khojaste header" width="100%" />
 
 <br><br>
 
