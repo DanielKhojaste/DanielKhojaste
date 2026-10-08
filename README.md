@@ -127,9 +127,13 @@ A stakeholder-driven team project where I worked on data extraction, software qu
 <br clear="right">
 
 <p align="center">
-	<a href="https://open.spotify.com/track/44klKbTwlsqhIku1IyzowX?si=2b3205b0111e4ce3">
-		<img src="./assets/hans-zimmer-wide-full-title.png" alt="Recently played: What Are You Going to Do When You Are Not Saving the World? by Hans Zimmer" width="100%" />
-	</a>
+  <a href="https://open.spotify.com/track/44klKbTwlsqhIku1IyzowX?si=2b3205b0111e4ce3">
+    <img
+      src="./assets/hans-zimmer-wide-full-title.png"
+      alt="Hans Zimmer recently played card"
+      width="90%"
+    />
+  </a>
 </p>
 
 ## Get in touch
