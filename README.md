@@ -126,7 +126,7 @@ A stakeholder-driven team project where I worked on data extraction, software qu
 
 <br clear="right">
 
-<p align="center">
+<div align="center">
   <a href="https://open.spotify.com/track/44klKbTwlsqhIku1IyzowX?si=2b3205b0111e4ce3">
     <img
       src="./assets/hans-zimmer-wide-full-title.png"
@@ -134,9 +134,10 @@ A stakeholder-driven team project where I worked on data extraction, software qu
       width="80%"
     />
   </a>
-  <br>
-  <a href="https://open.spotify.com/track/44klKbTwlsqhIku1IyzowX?si=2b3205b0111e4ce3">Click the card to open in Spotify</a>
-</p>
+  <div>
+    <a href="https://open.spotify.com/track/44klKbTwlsqhIku1IyzowX?si=2b3205b0111e4ce3"><strong>Click the card to listen on Spotify</strong></a>
+  </div>
+</div>
 
 ## Get in touch
 
