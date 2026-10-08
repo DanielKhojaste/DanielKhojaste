@@ -44,23 +44,23 @@ I'm a graduate of Algonquin College's **Web Development & Internet Applications*
 	</tr>
 	<tr>
 		<td align="left" valign="middle"><strong>Languages</strong></td>
-		<td align="left" valign="middle"><img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,php,rust&perline=8" alt="JavaScript, TypeScript, Python, Java, C#, PHP, Rust" /></td>
+		<td align="left" valign="middle"><img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,php,rust,dart&perline=8" alt="JavaScript, TypeScript, Python, Java, C#, PHP, Rust, Dart" /></td>
 	</tr>
 	<tr>
-		<td align="left" valign="middle"><strong>Frontend</strong></td>
-		<td align="left" valign="middle"><img src="https://skillicons.dev/icons?i=react,nextjs,astro,html,css,tailwind&perline=8" alt="React, Next.js, Astro, HTML, CSS, Tailwind CSS" /></td>
+		<td align="left" valign="middle"><strong>Frontend &amp; Design</strong></td>
+		<td align="left" valign="middle"><img src="https://skillicons.dev/icons?i=react,nextjs,astro,html,css,tailwind,figma,ai&perline=8" alt="React, Next.js, Astro, HTML, CSS, Tailwind CSS, Figma, Adobe Illustrator" /></td>
 	</tr>
 	<tr>
 		<td align="left" valign="middle"><strong>Backend &amp; Data</strong></td>
-		<td align="left" valign="middle"><img src="https://skillicons.dev/icons?i=nodejs,express,mysql&perline=8" alt="Node.js, Express.js, MySQL" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mariadb/003545" alt="MariaDB" title="MariaDB" width="48" height="48" /></td>
+		<td align="left" valign="middle"><img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,mysql&perline=8" alt=".NET, Node.js, Express.js, MySQL" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mariadb/003545" alt="MariaDB" title="MariaDB" width="48" height="48" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sanity/0D0E12/FFFFFF" alt="Sanity CMS" title="Sanity CMS" width="48" height="48" /></td>
+	</tr>
+	<tr>
+		<td align="left" valign="middle"><strong>Application Frameworks</strong></td>
+		<td align="left" valign="middle"><img src="https://skillicons.dev/icons?i=flutter,tauri" alt="Flutter, Tauri" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=qt" alt="PyQt" title="PyQt" /></td>
 	</tr>
 	<tr>
 		<td align="left" valign="middle"><strong>Testing &amp; Tools</strong></td>
 		<td align="left" valign="middle"><img src="https://skillicons.dev/icons?i=git,docker,postman,selenium&perline=8" alt="Git, Docker, Postman, Selenium" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" width="48" height="48" /></td>
-	</tr>
-	<tr>
-		<td align="left" valign="middle"><strong>CMS &amp; Platforms</strong></td>
-		<td align="left" valign="middle"><img src="https://cdn.simpleicons.org/sanity/0D0E12/FFFFFF" alt="Sanity CMS" title="Sanity CMS" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" title="Vercel" /></td>
 	</tr>
 	<tr>
 		<td align="left" valign="middle"><strong>AI Development</strong></td>
