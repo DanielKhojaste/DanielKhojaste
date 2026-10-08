@@ -16,24 +16,24 @@ I turn ideas into polished, working software, from the first screen to the final
 
 ## Give me your stack. Give me a challenge.
 
-Hiring managers and recruiters: tired of reading the same resumes?
+**A resume makes me look just like everyone else.** Give me a **stack** and a **challenge**, and I'll show you why I **stand out**.
 
 Send me your **tech stack**, a **scoped problem**, and what you want to see.  
 Give me up to a week and I will turn it into something real your tech lead can review.
 
-🟪 **Design** polished interfaces and prototypes in Figma  
-🟪 **Build** clean, maintainable software across the stack  
-🟪 **Test** critical flows with automated coverage  
-🟪 **Document** the build clearly from setup to handoff  
-🟣 **Launch** a live project you can open, use, and review
+🟪 **Design** interfaces and prototypes in Figma  
+🟪 **Build** clean software across the stack  
+🟪 **Test** critical flows with automation  
+🟪 **Document** from setup to handoff  
+🟣 **Launch** a live project you can review
 
-**AI-assisted or fully manual, your call. I'm more than happy to build without AI, and I'm comfortable coding live in an interview.**
+**AI-assisted or fully manual, your call.** I'm more than happy to build without AI, and I'm comfortable coding live in an interview.
+
+**You have nothing to lose! 🙂** Sending me your stack takes less than a minute, probably even less time than reading my resume! You either find exactly who you're looking for, or you save some time and I get another cool project on my GitHub. It's a win-win, isn't it? 😎
 
 ## About me
 
-I'm a full-stack developer and a graduate of Algonquin College's **Web Development & Internet Applications** program, where I made the **Dean's Honours List** three times!
-
-Based in Canada and willing to relocate. I work across frontend, backend, REST APIs, databases, testing, and deployment, and I learn new technologies quickly by putting them to work.
+I'm a graduate of Algonquin College's **Web Development & Internet Applications** program, where I made the **Dean's Honours List** three times. I work across frontend, backend, REST APIs, databases, testing, and deployment, and I learn new technologies quickly by putting them to work.
 
 ## Skills
 
@@ -107,7 +107,7 @@ A tactical board desktop application with interactive drag-and-drop editing and 
 	<img src="https://img.shields.io/badge/Kanban-111111?style=flat-square" alt="Kanban" height="24" />
 </p>
 
-A stakeholder-driven team project where I worked on data extraction, software quality, deployment, debugging, pull requests, code reviews, and client feedback.
+A stakeholder-driven team project where I worked on data extraction, software quality, deployment, and debugging. We met frequently with the stakeholder to review our progress, discuss feedback, and determine what needed to be done next, while our project manager led the team using a Kanban board.
 
 ## How I like to work
 
@@ -139,12 +139,12 @@ A stakeholder-driven team project where I worked on data extraction, software qu
     />
   </a>
   <br><br>
-  <a href="https://open.spotify.com/track/44klKbTwlsqhIku1IyzowX?si=2b3205b0111e4ce3"><strong>Click the card to listen on Spotify</strong></a>
+  <i>Click the card to listen on Spotify</i>
 </div>
 
 ## Get in touch
 
-If you have a stack or a challenge in mind, send it my way.
+I'm based in Canada and I'm willing to relocate. If you have a stack or a challenge in mind, send it my way, and I'll get back to you within **7 days**!
 
 [Email](mailto:danielkhojaste101@gmail.com) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/aref-khojaste/) &nbsp;&nbsp; [GitHub](https://github.com/DanielKhojaste)
 
