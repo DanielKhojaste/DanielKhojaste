@@ -1,12 +1,8 @@
 <div align="center">
 
-<img src="./assets/Daniel's Odyssey - Cover.png" alt="Daniel Khojaste header" width="100%" />
+<img src="./assets/odyssey-header.png" alt="Daniel Khojaste header" width="100%" />
 
 <br><br>
-
-# Daniel Khojaste
-
-<h3 align="center"><big>Full-Stack Software Developer</big></h3>
 
 I turn ideas into polished, working software, from the first screen to the final deploy.
 
