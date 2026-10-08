@@ -138,9 +138,8 @@ A stakeholder-driven team project where I worked on data extraction, software qu
       width="80%"
     />
   </a>
-  <div>
-    <a href="https://open.spotify.com/track/44klKbTwlsqhIku1IyzowX?si=2b3205b0111e4ce3"><strong>Click the card to listen on Spotify</strong></a>
-  </div>
+  <br><br>
+  <a href="https://open.spotify.com/track/44klKbTwlsqhIku1IyzowX?si=2b3205b0111e4ce3"><strong>Click the card to listen on Spotify</strong></a>
 </div>
 
 ## Get in touch
