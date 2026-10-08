@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="./assets/Daniel's Odyssey - Cover - Title.png" alt="Daniel Khojaste header" width="100%" />
+# Daniel Khojaste
 
-<br>
+<h3 align="center"><big>Full-Stack Software Developer</big></h3>
 
 I turn ideas into polished, working software, from the first screen to the final deploy.
 
 [LinkedIn](https://www.linkedin.com/in/aref-khojaste/) &nbsp;&nbsp; [GitHub](https://github.com/DanielKhojaste) &nbsp;&nbsp; [Email](mailto:danielkhojaste101@gmail.com)
+
+<br>
+
+<img src="./assets/Daniel's Odyssey - Cover.png" alt="Daniel Khojaste" width="700" />
 
 </div>
 
@@ -126,7 +130,7 @@ A stakeholder-driven team project where I worked on data extraction, software qu
 
 <br clear="right">
 
-<p align="center">
+<div align="center">
   <a href="https://open.spotify.com/track/44klKbTwlsqhIku1IyzowX?si=2b3205b0111e4ce3">
     <img
       src="./assets/hans-zimmer-wide-full-title.png"
@@ -134,7 +138,10 @@ A stakeholder-driven team project where I worked on data extraction, software qu
       width="80%"
     />
   </a>
-</p>
+  <div>
+    <a href="https://open.spotify.com/track/44klKbTwlsqhIku1IyzowX?si=2b3205b0111e4ce3"><strong>Click the card to listen on Spotify</strong></a>
+  </div>
+</div>
 
 ## Get in touch
 
