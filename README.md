@@ -73,13 +73,13 @@ Based in Canada and willing to relocate. I work across frontend, backend, REST A
 ### [ApotheonAI](https://apotheon-ai.vercel.app/)
 
 <p>
-	<img src="https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white" alt="Astro" />
-	<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-	<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-	<img src="https://img.shields.io/badge/Sanity_CMS-111111?style=for-the-badge&logo=sanity&logoColor=white" alt="Sanity CMS" />
-	<img src="https://img.shields.io/badge/GROQ-111111?style=for-the-badge" alt="GROQ" />
-	<img src="https://img.shields.io/badge/Playwright-111111?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
-	<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+	<img src="https://img.shields.io/badge/Astro-%232C2052.svg?style=flat-square&logo=astro&logoColor=white" alt="Astro" height="24" />
+	<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="24" />
+	<img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="24" />
+	<img src="https://img.shields.io/badge/Sanity_CMS-111111?style=flat-square&logo=sanity&logoColor=white" alt="Sanity CMS" height="24" />
+	<img src="https://img.shields.io/badge/GROQ-111111?style=flat-square" alt="GROQ" height="24" />
+	<img src="https://img.shields.io/badge/Playwright-111111?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" height="24" />
+	<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" height="24" />
 </p>
 
 A multi-page AI security website built around reusable frontend components, responsive and accessible UI, structured CMS content, dynamic routes, and browser-based end-to-end testing.
@@ -89,11 +89,11 @@ A multi-page AI security website built around reusable frontend components, resp
 ### [Lineup](https://github.com/DanielKhojaste/lineup)
 
 <p>
-	<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-	<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-	<img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
-	<img src="https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF" alt="Tauri" />
-	<img src="https://img.shields.io/badge/dnd--kit-111111?style=for-the-badge" alt="dnd-kit" />
+	<img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" height="24" />
+	<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="24" />
+	<img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white" alt="Rust" height="24" />
+	<img src="https://img.shields.io/badge/Tauri-%2324C8DB.svg?style=flat-square&logo=tauri&logoColor=%23FFFFFF" alt="Tauri" height="24" />
+	<img src="https://img.shields.io/badge/dnd--kit-111111?style=flat-square" alt="dnd-kit" height="24" />
 </p>
 
 A tactical board desktop application with interactive drag-and-drop editing and a domain-driven node system designed to make new functionality easier to extend.
@@ -101,10 +101,10 @@ A tactical board desktop application with interactive drag-and-drop editing and 
 ### [PlantPlotter](https://www.plantplotter.app/)
 
 <p>
-	<img src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-	<img src="https://img.shields.io/badge/scrapy-%2360a839.svg?style=for-the-badge&logo=scrapy&logoColor=d1d2d3" alt="Scrapy" />
-	<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-	<img src="https://img.shields.io/badge/Kanban-111111?style=for-the-badge" alt="Kanban" />
+	<img src="https://img.shields.io/badge/Python-%233670A0.svg?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" height="24" />
+	<img src="https://img.shields.io/badge/Scrapy-%2360a839.svg?style=flat-square&logo=scrapy&logoColor=d1d2d3" alt="Scrapy" height="24" />
+	<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" height="24" />
+	<img src="https://img.shields.io/badge/Kanban-111111?style=flat-square" alt="Kanban" height="24" />
 </p>
 
 A stakeholder-driven team project where I worked on data extraction, software quality, deployment, debugging, pull requests, code reviews, and client feedback.
