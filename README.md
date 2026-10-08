@@ -37,7 +37,7 @@ Based in Canada and willing to relocate. I work across frontend, backend, REST A
 
 ## Skills
 
-<table>
+<table align="center">
 	<tr>
 		<th align="left">Area</th>
 		<th align="left">Technologies</th>
