@@ -162,6 +162,8 @@ I'm based in Canada and I'm willing to relocate. If you have a stack or a challe
 **Set the challenge.**  
 **See it happen.**
 
+<br />
+
 <img src="./assets/dk_purple_cropped.svg" alt="DK logo" width="56" />
 
 </div>
