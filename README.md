@@ -1,8 +1,6 @@
 <div align="center">
 
-<h1 align="center">
-  <img src="./assets/dk_filled.svg" alt="DK logo" width="38" />&nbsp; Daniel Khojaste
-</h1>
+# Daniel Khojaste
 
 <h3 align="center"><big>Full-Stack Software Developer</big></h3>
 
@@ -163,5 +161,7 @@ I'm based in Canada and I'm willing to relocate. If you have a stack or a challe
 **Name the stack.**  
 **Set the challenge.**  
 **See it happen.**
+
+<img src="./assets/dk_purple.svg" alt="DK logo" width="56" />
 
 </div>
