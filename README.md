@@ -1,11 +1,12 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/dk_transparent.svg" />
-  <img src="./assets/dk_purple.svg" alt="DK logo" width="72" />
-</picture>
-
-# Daniel Khojaste
+<h1 align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/dk_transparent.svg" />
+    <img src="./assets/dk_purple.svg" alt="DK logo" width="42" />
+  </picture>
+  Daniel Khojaste
+</h1>
 
 <h3 align="center"><big>Full-Stack Software Developer</big></h3>
 
@@ -57,7 +58,7 @@ I'm a graduate of Algonquin College's **Web Development & Internet Applications*
 	</tr>
 	<tr>
 		<td align="left" valign="middle"><strong>Backend &amp; Data</strong></td>
-		<td align="left" valign="middle"><img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,mysql&perline=8" alt=".NET, Node.js, Express.js, MySQL" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mariadb/003545" alt="MariaDB" title="MariaDB" width="48" height="48" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sanity/0D0E12/FFFFFF" alt="Sanity CMS" title="Sanity CMS" width="48" height="48" /></td>
+		<td align="left" valign="middle"><img src="https://skillicons.dev/icons?i=dotnet,nodejs,express&perline=8" alt=".NET, Node.js, Express.js" />&nbsp;&nbsp;<img src="./assets/solace-pubsub.svg" alt="Solace PubSub+" title="Solace PubSub+" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mariadb/003545" alt="MariaDB" title="MariaDB" width="48" height="48" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sanity/0D0E12/FFFFFF" alt="Sanity CMS" title="Sanity CMS" width="48" height="48" /></td>
 	</tr>
 	<tr>
 		<td align="left" valign="middle"><strong>Application Frameworks</strong></td>
@@ -120,7 +121,7 @@ A VS Code extension that brings the ToDone plain-text task workflow to VS Code w
 
 <p align="center">
   <a href="./PROJECTS.md">
-    <img src="https://img.shields.io/badge/-View_All_Projects-2C0055?style=flat-square&logo=github&logoColor=white" alt="View all projects" height="28" />
+    <img src="https://img.shields.io/badge/-View_All_Projects-2C0055?style=flat-square&logo=github&logoColor=white" alt="View all projects" height="36" />
   </a>
 </p>
 
