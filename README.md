@@ -113,6 +113,8 @@ A VS Code extension that brings the ToDone plain-text task workflow to VS Code w
 
 [![ToDone for VS Code](./assets/todone.png)](https://marketplace.visualstudio.com/items?itemName=danielkhojaste.todone-vscode)
 
+**[View all projects →](./PROJECTS.md)**
+
 ## How I like to work
 
 <img
