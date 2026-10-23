@@ -1,5 +1,10 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dk_transparent.svg" />
+  <img src="./assets/dk_purple.svg" alt="DK logo" width="72" />
+</picture>
+
 # Daniel Khojaste
 
 <h3 align="center"><big>Full-Stack Software Developer</big></h3>
@@ -113,7 +118,11 @@ A VS Code extension that brings the ToDone plain-text task workflow to VS Code w
 
 [![ToDone for VS Code](./assets/todone.png)](https://marketplace.visualstudio.com/items?itemName=danielkhojaste.todone-vscode)
 
-**[View all projects →](./PROJECTS.md)**
+<p align="center">
+  <a href="./PROJECTS.md">
+    <img src="https://img.shields.io/badge/-View_All_Projects-2C0055?style=flat-square&logo=github&logoColor=white" alt="View all projects" height="28" />
+  </a>
+</p>
 
 ## How I like to work
 
