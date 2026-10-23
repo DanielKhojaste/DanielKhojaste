@@ -91,10 +91,10 @@ An event-driven engineering operations console for registering, monitoring, and 
 <p>
 	<img src="https://img.shields.io/badge/Astro-%232C2052.svg?style=flat-square&logo=astro&logoColor=white" alt="Astro" height="24" />
 	<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="24" />
-	<img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="24" />
+	<img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" height="24" />
 	<img src="https://img.shields.io/badge/Sanity_CMS-111111?style=flat-square&logo=sanity&logoColor=white" alt="Sanity CMS" height="24" />
-	<img src="https://img.shields.io/badge/GROQ-111111?style=flat-square" alt="GROQ" height="24" />
-	<img src="https://img.shields.io/badge/Playwright-111111?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" height="24" />
+	<img src="https://img.shields.io/badge/GROQ-111111?style=flat-square&logo=sanity&logoColor=white" alt="GROQ" height="24" />
+	<img src="./assets/playwright-badge.svg" alt="Playwright" height="24" />
 	<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" height="24" />
 </p>
 
@@ -106,7 +106,7 @@ A multi-page AI security website built around reusable frontend components, resp
 
 <p>
 	<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="24" />
-	<img src="https://img.shields.io/badge/VS_Code_Extension-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code Extension" height="24" />
+	<img src="./assets/vscode-extension-badge.svg" alt="VS Code Extension" height="24" />
 </p>
 
 A VS Code extension that brings the ToDone plain-text task workflow to VS Code with priorities, task states, notes, commands, outline support, and Sublime ToDone compatibility.
