@@ -2,7 +2,7 @@
 
 A curated collection of projects I've built and contributed to.
 
-[Back to profile](./README.md)
+[Back to profile](https://github.com/DanielKhojaste)
 
 ## DK8s
 
@@ -12,7 +12,7 @@ A curated collection of projects I've built and contributed to.
 	<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" height="24" />
 	<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" height="24" />
 	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" height="24" />
-	<img src="https://img.shields.io/badge/Solace_PubSub%2B-00C895?style=flat-square&logo=solace&logoColor=white" alt="Solace PubSub+" height="24" />
+	<img src="https://img.shields.io/badge/Solace_PubSub%2B-00C895?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyBpZD0iYiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgNzIgNzIiPgogIDxnIGlkPSJjIj4KICAgIDxjaXJjbGUgY3g9IjM2IiBjeT0iMzYiIHI9IjM2IiBmaWxsPSIjNDZjNzk1IiBzdHJva2Utd2lkdGg9IjAiLz4KICAgIDxwYXRoIGQ9Im02MS4zNywyOC4yaC03LjQ3di03Ljk5YzEuOC0uNTksMy4xLTIuMjYsMy4xLTQuMjYsMC0yLjQ5LTIuMDEtNC41LTQuNS00LjVzLTQuNSwyLjAxLTQuNSw0LjVjMCwyLjA3LDEuNCwzLjc5LDMuMyw0LjMydjcuOTNoLTE0LjJ2LTE1LjI2YzEuODUtLjU2LDMuMi0yLjI2LDMuMi00LjI5LDAtMi40OS0yLjAxLTQuNS00LjUtNC41cy00LjUsMi4wMS00LjUsNC41YzAsMi4wMywxLjM1LDMuNzMsMy4yLDQuMjl2MTUuMjZoLTE0LjF2LTcuOTZjMS44NS0uNTYsMy4yLTIuMjYsMy4yLTQuMjksMC0yLjQ5LTIuMDEtNC41LTQuNS00LjVzLTQuNSwyLjAxLTQuNSw0LjVjMCwyLjAzLDEuMzUsMy43MywzLjIsNC4yOXY3Ljk2aC03LjA1Yy0yLjQyLDAtNC4zOSwxLjk2LTQuMzksNC4zOXY5LjIzYzAsMi40MiwxLjk2LDQuMzksNC4zOSw0LjM5aDcuMDV2NS41NmMtMS44NS41Ni0zLjIsMi4yNi0zLjIsNC4yOSwwLDIuNDksMi4wMSw0LjUsNC41LDQuNXM0LjUtMi4wMSw0LjUtNC41YzAtMi4wMy0xLjM1LTMuNzMtMy4yLTQuMjl2LTUuNTZoMTQuMXYxMi44NmMtMS44NS41Ni0zLjIsMi4yNi0zLjIsNC4yOSwwLDIuNDksMi4wMSw0LjUsNC41LDQuNXM0LjUtMi4wMSw0LjUtNC41YzAtMi4wMy0xLjM1LTMuNzMtMy4yLTQuMjl2LTEyLjg2aDE0LjJ2NS41M2MtMS45LjUzLTMuMywyLjI1LTMuMyw0LjMyLDAsMi40OSwyLjAxLDQuNSw0LjUsNC41czQuNS0yLjAxLDQuNS00LjVjMC0xLjk5LTEuMy0zLjY2LTMuMS00LjI2di01LjU5aDcuNDdjMi40MiwwLDQuMzktMS45Niw0LjM5LTQuMzl2LTkuMjNjMC0yLjQyLTEuOTYtNC4zOS00LjM5LTQuMzlaIiBmaWxsPSIjZmZmIiBzdHJva2Utd2lkdGg9IjAiLz4KICA8L2c%2BCjwvc3ZnPgo%3D&logoColor=white" alt="Solace PubSub+" height="24" />
 	<img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" height="24" />
 	<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="24" />
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="24" />
@@ -29,10 +29,10 @@ An event-driven engineering operations console for registering, monitoring, and 
 <p>
 	<img src="https://img.shields.io/badge/Astro-%232C2052.svg?style=flat-square&logo=astro&logoColor=white" alt="Astro" height="24" />
 	<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="24" />
-	<img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="24" />
+	<img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" height="24" />
 	<img src="https://img.shields.io/badge/Sanity_CMS-111111?style=flat-square&logo=sanity&logoColor=white" alt="Sanity CMS" height="24" />
-	<img src="https://img.shields.io/badge/GROQ-111111?style=flat-square" alt="GROQ" height="24" />
-	<img src="https://img.shields.io/badge/Playwright-111111?style=flat-square&logo=playwright&logoColor=white" alt="Playwright" height="24" />
+	<img src="https://img.shields.io/badge/GROQ-111111?style=flat-square&logo=sanity&logoColor=white" alt="GROQ" height="24" />
+	<img src="./assets/playwright-badge.svg" alt="Playwright" height="24" />
 	<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" height="24" />
 </p>
 
@@ -46,7 +46,7 @@ A multi-page AI security website built around reusable frontend components, resp
 
 <p>
 	<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="24" />
-	<img src="https://img.shields.io/badge/VS_Code_Extension-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code Extension" height="24" />
+	<img src="./assets/vscode-extension-badge.svg" alt="VS Code Extension" height="24" />
 </p>
 
 A VS Code extension that brings the ToDone plain-text task workflow to VS Code with priorities, task states, notes, commands, outline support, and Sublime ToDone compatibility.
