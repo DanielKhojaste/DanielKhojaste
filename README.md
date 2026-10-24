@@ -1,76 +1,10 @@
-<div align="center">
+# Projects
 
-# Daniel Khojaste
+A curated collection of projects I've built and contributed to.
 
-<h3 align="center"><big>Full-Stack Software Developer</big></h3>
+<div align="right"><a href="https://github.com/DanielKhojaste">Back to profile →</a></div>
 
-I turn ideas into polished, working software, from the first screen to the final deploy.
-
-[LinkedIn](https://www.linkedin.com/in/aref-khojaste/) &nbsp;&nbsp; [GitHub](https://github.com/DanielKhojaste) &nbsp;&nbsp; [Email](mailto:danielkhojaste101@gmail.com)
-
-<br>
-
-<img src="./assets/Daniel's Odyssey - Cover.png" alt="Daniel Khojaste" width="700" />
-
-</div>
-
-## Give me your stack. Give me a challenge.
-
-**A resume makes me look just like everyone else.** Give me a **stack** and a **challenge**, and I'll show you why I **stand out**.
-
-Send me your **tech stack**, a **scoped problem**, and what you want to see.  
-Give me up to a week and I will turn it into something real your tech lead can review.
-
-🟪 **Design** interfaces and prototypes in Figma  
-🟪 **Build** clean software across the stack  
-🟪 **Test** critical flows with automation  
-🟪 **Document** from setup to handoff  
-🟣 **Launch** a live project you can review
-
-**AI-assisted or fully manual, your call.** I'm more than happy to build without AI, and I'm comfortable coding live in an interview.
-
-**You have nothing to lose! 🙂** Sending me your stack takes less than a minute, probably even less time than reading my resume! You either find exactly who you're looking for, or you save some time and I get another cool project on my GitHub. It's a win-win, isn't it? 😎
-
-## About me
-
-I'm a graduate of Algonquin College's **Web Development & Internet Applications** program, where I made the **Dean's Honours List** three times. I work across frontend, backend, REST APIs, databases, testing, and deployment, and I learn new technologies quickly by putting them to work.
-
-## Skills
-
-<table align="center">
-	<tr>
-		<th align="left">Area</th>
-		<th align="left">Technologies</th>
-	</tr>
-	<tr>
-		<td align="left" valign="middle"><strong>Languages</strong></td>
-		<td align="left" valign="middle"><img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,php,rust,dart&perline=8" alt="JavaScript, TypeScript, Python, Java, C#, PHP, Rust, Dart" /></td>
-	</tr>
-	<tr>
-		<td align="left" valign="middle"><strong>Frontend &amp; Design</strong></td>
-		<td align="left" valign="middle"><img src="https://skillicons.dev/icons?i=react,nextjs,astro,html,css,tailwind,figma,ai&perline=8" alt="React, Next.js, Astro, HTML, CSS, Tailwind CSS, Figma, Adobe Illustrator" /></td>
-	</tr>
-	<tr>
-		<td align="left" valign="middle"><strong>Backend &amp; Data</strong></td>
-		<td align="left" valign="middle"><img src="https://skillicons.dev/icons?i=dotnet,nodejs,express&perline=8" alt=".NET, Node.js, Express.js" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" alt="Spring Boot" title="Spring Boot" width="48" height="48" />&nbsp;&nbsp;<img src="./assets/solace-pubsub.svg" alt="Solace PubSub+" title="Solace PubSub+" width="48" height="48" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="48" height="48" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/mariadb/003545" alt="MariaDB" title="MariaDB" width="48" height="48" />&nbsp;&nbsp;<img src="https://cdn.simpleicons.org/sanity/0D0E12/FFFFFF" alt="Sanity CMS" title="Sanity CMS" width="48" height="48" /></td>
-	</tr>
-	<tr>
-		<td align="left" valign="middle"><strong>Application Frameworks</strong></td>
-		<td align="left" valign="middle"><img src="https://skillicons.dev/icons?i=flutter,tauri" alt="Flutter, Tauri" />&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=qt" alt="PyQt" title="PyQt" /></td>
-	</tr>
-	<tr>
-		<td align="left" valign="middle"><strong>Testing &amp; Tools</strong></td>
-		<td align="left" valign="middle"><img src="https://skillicons.dev/icons?i=git,docker,postman,selenium&perline=8" alt="Git, Docker, Postman, Selenium" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" alt="Playwright" title="Playwright" width="48" height="48" /></td>
-	</tr>
-	<tr>
-		<td align="left" valign="middle"><strong>AI Development</strong></td>
-		<td align="left" valign="middle"><img src="./assets/codex.svg" alt="OpenAI Codex" title="OpenAI Codex" width="48" height="48" />&nbsp;&nbsp;<img src="./assets/claude-code.svg" alt="Claude Code" title="Claude Code" width="48" height="48" />&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cursor-dark.svg" /><img src="./assets/cursor-light.svg" alt="Cursor" title="Cursor" width="48" height="48" /></picture>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/github-copilot-dark.svg" /><img src="./assets/github-copilot-light.svg" alt="GitHub Copilot" title="GitHub Copilot" width="48" height="48" /></picture></td>
-	</tr>
-</table>
-
-## Featured projects
-
-### [DK8s](https://github.com/DanielKhojaste/dk8s)
+## DK8s
 
 <p>
 	<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" height="24" />
@@ -82,11 +16,13 @@ I'm a graduate of Algonquin College's **Web Development & Internet Applications*
 	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" height="24" />
 </p>
 
-An event-driven engineering operations console for registering, monitoring, and managing service lifecycles, with asynchronous deployment workflows powered by Solace PubSub+.
+[GitHub ↗](https://github.com/DanielKhojaste/dk8s)
+
+An event-driven engineering operations console for registering, monitoring, and managing service lifecycles. DK8s combines Java and Spring Boot services, PostgreSQL, Solace PubSub+, a React operations UI, containers, automated tests, and CI around asynchronous deployment workflows.
 
 [![DK8s dashboard](./assets/dk8s-dashboard.png)](https://github.com/DanielKhojaste/dk8s)
 
-### [Lineup](https://github.com/DanielKhojaste/lineup)
+## Lineup
 
 <p>
 	<img src="https://img.shields.io/badge/Tauri-%2324C8DB.svg?style=flat-square&logo=tauri&logoColor=%23FFFFFF" alt="Tauri" height="24" />
@@ -97,11 +33,13 @@ An event-driven engineering operations console for registering, monitoring, and 
 	<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" height="24" />
 </p>
 
+[GitHub ↗](https://github.com/DanielKhojaste/lineup)
+
 A local-first tactical board desktop app for coaches to build line-ups, draw drills, animate plays, organize boards in a library, and store everything as files on their computer.
 
 [![Barça starting XI on the Lineup board](https://raw.githubusercontent.com/DanielKhojaste/lineup/main/docs/screenshots/lineup.png)](https://github.com/DanielKhojaste/lineup)
 
-### [ApotheonAI](https://apotheon-ai.vercel.app/)
+## ApotheonAI
 
 <p>
 	<img src="https://img.shields.io/badge/Astro-%232C2052.svg?style=flat-square&logo=astro&logoColor=white" alt="Astro" height="24" />
@@ -113,61 +51,36 @@ A local-first tactical board desktop app for coaches to build line-ups, draw dri
 	<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" height="24" />
 </p>
 
+[Live site ↗](https://apotheon-ai.vercel.app/) · [GitHub ↗](https://github.com/DanielKhojaste/apotheon-ai)
+
 A multi-page AI security website built around reusable frontend components, responsive and accessible UI, structured CMS content, dynamic routes, and browser-based end-to-end testing.
 
 [![ApotheonAI homepage](https://raw.githubusercontent.com/DanielKhojaste/apotheon-ai/main/screenshots/home-hero.png)](https://apotheon-ai.vercel.app/)
 
-<h3 align="center">
-  <a href="./PROJECTS.md"><strong>View All Projects →</strong></a>
-</h3>
+## ToDone for VS Code
 
-## How I like to work
+<p>
+	<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="24" />
+	<img src="./assets/vscode-extension-badge.svg" alt="VS Code Extension" height="24" />
+</p>
 
-<img
-	align="right"
-	src="https://github-stats-extended.vercel.app/api/top-langs/?username=DanielKhojaste&layout=compact&langs_count=10&card_width=495&theme=transparent&hide_border=true"
-	alt="Daniel Khojaste's most used languages"
-	width="495"
-/>
+[VS Code Marketplace ↗](https://marketplace.visualstudio.com/items?itemName=danielkhojaste.todone-vscode) · [GitHub ↗](https://github.com/DanielKhojaste/ToDone)
 
-🟨 **Build** end to end.
+A VS Code extension that brings the ToDone plain-text task workflow to VS Code with priorities, task states, notes, commands, outline support, and Sublime ToDone compatibility.
 
-🟨 **Design** with intent.
+[![ToDone for VS Code](./assets/todone.png)](https://marketplace.visualstudio.com/items?itemName=danielkhojaste.todone-vscode)
 
-🟨 **Test** what matters.
+## PlantPlotter
 
-🟨 **Document** as I go.
+<p>
+	<img src="https://img.shields.io/badge/Python-%233670A0.svg?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" height="24" />
+	<img src="https://img.shields.io/badge/Scrapy-%2360a839.svg?style=flat-square&logo=scrapy&logoColor=d1d2d3" alt="Scrapy" height="24" />
+	<img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white" alt="Git" height="24" />
+	<img src="https://img.shields.io/badge/Kanban-111111?style=flat-square" alt="Kanban" height="24" />
+</p>
 
-🟡 **Own** the result.
+[Live site ↗](https://www.plantplotter.app/)
 
-<br clear="right">
+A stakeholder-driven team project where I worked on data extraction, software quality, deployment, and debugging. We met frequently with the stakeholder to review our progress, discuss feedback, and determine what needed to be done next, while our project manager led the team using a Kanban board.
 
-<div align="center">
-  <a href="https://open.spotify.com/track/44klKbTwlsqhIku1IyzowX?si=2b3205b0111e4ce3">
-    <img
-      src="./assets/recently-played-hans-zimmer.png"
-      alt="Hans Zimmer recently played card"
-      width="80%"
-    />
-  </a>
-  <br><br>
-  <i>Click the card to listen on Spotify</i>
-</div>
-
-## Get in touch
-
-I'm based in Canada and I'm willing to relocate. If you have a stack or a challenge in mind, send it my way, and I'll get back to you within **7 days**!
-
-[Email](mailto:danielkhojaste101@gmail.com) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/aref-khojaste/) &nbsp;&nbsp; [GitHub](https://github.com/DanielKhojaste)
-
-<div align="right">
-
-**Name the stack.**  
-**Set the challenge.**  
-**See it happen.**
-
-<br />
-
-<img src="./assets/dk_purple_cropped.svg" alt="DK logo" width="56" />
-
-</div>
+[![PlantPlotter](./assets/plantplotter.png)](https://www.plantplotter.app/)
