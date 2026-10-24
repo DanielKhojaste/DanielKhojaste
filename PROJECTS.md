@@ -1,10 +1,8 @@
 # Projects
 
-A curated collection of projects I've built and contributed to. &nbsp;&nbsp; **[Back to profile →](https://github.com/DanielKhojaste)**
+A curated collection of projects I've built and contributed to. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **[Back to profile →](https://github.com/DanielKhojaste)**
 
-## DK8s
-
-[GitHub](https://github.com/DanielKhojaste/dk8s)
+## DK8s &nbsp; [GitHub](https://github.com/DanielKhojaste/dk8s)
 
 <p>
 	<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" height="24" />
@@ -20,9 +18,7 @@ An event-driven engineering operations console for registering, monitoring, and 
 
 [![DK8s dashboard](./assets/dk8s-dashboard.png)](https://github.com/DanielKhojaste/dk8s)
 
-## Lineup
-
-[GitHub](https://github.com/DanielKhojaste/lineup)
+## Lineup &nbsp; [GitHub](https://github.com/DanielKhojaste/lineup)
 
 <p>
 	<img src="https://img.shields.io/badge/Tauri-%2324C8DB.svg?style=flat-square&logo=tauri&logoColor=%23FFFFFF" alt="Tauri" height="24" />
@@ -36,9 +32,7 @@ An event-driven engineering operations console for registering, monitoring, and 
 A local-first tactical board desktop app for coaches to build line-ups, draw drills, animate plays, organize boards in a library, and store everything as files on their computer.
 
 [![Barça starting XI on the Lineup board](https://raw.githubusercontent.com/DanielKhojaste/lineup/main/docs/screenshots/lineup.png)](https://github.com/DanielKhojaste/lineup)
-## ApotheonAI
-
-[Live site](https://apotheon-ai.vercel.app/) · [GitHub](https://github.com/DanielKhojaste/apotheon-ai)
+## ApotheonAI &nbsp; [Live site](https://apotheon-ai.vercel.app/) · [GitHub](https://github.com/DanielKhojaste/apotheon-ai)
 
 <p>
 	<img src="https://img.shields.io/badge/Astro-%232C2052.svg?style=flat-square&logo=astro&logoColor=white" alt="Astro" height="24" />
@@ -54,9 +48,7 @@ A multi-page AI security website built around reusable frontend components, resp
 
 [![ApotheonAI homepage](https://raw.githubusercontent.com/DanielKhojaste/apotheon-ai/main/screenshots/home-hero.png)](https://apotheon-ai.vercel.app/)
 
-## ToDone for VS Code
-
-[VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=danielkhojaste.todone-vscode) · [GitHub](https://github.com/DanielKhojaste/ToDone)
+## ToDone for VS Code &nbsp; [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=danielkhojaste.todone-vscode) · [GitHub](https://github.com/DanielKhojaste/ToDone)
 
 <p>
 	<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="24" />
@@ -67,9 +59,7 @@ A VS Code extension that brings the ToDone plain-text task workflow to VS Code w
 
 [![ToDone for VS Code](./assets/todone.png)](https://marketplace.visualstudio.com/items?itemName=danielkhojaste.todone-vscode)
 
-## PlantPlotter
-
-[Live site](https://www.plantplotter.app/)
+## PlantPlotter &nbsp; [Live site](https://www.plantplotter.app/)
 
 <p>
 	<img src="https://img.shields.io/badge/Python-%233670A0.svg?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" height="24" />
