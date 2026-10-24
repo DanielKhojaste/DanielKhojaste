@@ -73,11 +73,14 @@ A stakeholder-driven team project where I worked on data extraction, software qu
 [GitHub](https://github.com/DanielKhojaste/lineup)
 
 <p>
+	<img src="https://img.shields.io/badge/Tauri-%2324C8DB.svg?style=flat-square&logo=tauri&logoColor=%23FFFFFF" alt="Tauri" height="24" />
+	<img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white" alt="Rust" height="24" />
 	<img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" height="24" />
 	<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="24" />
-	<img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white" alt="Rust" height="24" />
-	<img src="https://img.shields.io/badge/Tauri-%2324C8DB.svg?style=flat-square&logo=tauri&logoColor=%23FFFFFF" alt="Tauri" height="24" />
-	<img src="https://img.shields.io/badge/dnd--kit-111111?style=flat-square" alt="dnd-kit" height="24" />
+	<img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" alt="Vite" height="24" />
+	<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" height="24" />
 </p>
 
-A tactical board desktop application with interactive drag-and-drop editing and a domain-driven node system designed to make new functionality easier to extend.
+A local-first tactical board desktop app for coaches to build line-ups, draw drills, animate plays, organize boards in a library, and store everything as files on their computer.
+
+[![Barça starting XI on the Lineup board](https://raw.githubusercontent.com/DanielKhojaste/lineup/main/docs/screenshots/lineup.png)](https://github.com/DanielKhojaste/lineup)

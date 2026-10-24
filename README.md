@@ -86,6 +86,21 @@ An event-driven engineering operations console for registering, monitoring, and 
 
 [![DK8s dashboard](./assets/dk8s-dashboard.png)](https://github.com/DanielKhojaste/dk8s)
 
+### [Lineup](https://github.com/DanielKhojaste/lineup)
+
+<p>
+	<img src="https://img.shields.io/badge/Tauri-%2324C8DB.svg?style=flat-square&logo=tauri&logoColor=%23FFFFFF" alt="Tauri" height="24" />
+	<img src="https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white" alt="Rust" height="24" />
+	<img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React" height="24" />
+	<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="24" />
+	<img src="https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white" alt="Vite" height="24" />
+	<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" height="24" />
+</p>
+
+A local-first tactical board desktop app for coaches to build line-ups, draw drills, animate plays, organize boards in a library, and store everything as files on their computer.
+
+[![Barça starting XI on the Lineup board](https://raw.githubusercontent.com/DanielKhojaste/lineup/main/docs/screenshots/lineup.png)](https://github.com/DanielKhojaste/lineup)
+
 ### [ApotheonAI](https://apotheon-ai.vercel.app/)
 
 <p>
@@ -101,17 +116,6 @@ An event-driven engineering operations console for registering, monitoring, and 
 A multi-page AI security website built around reusable frontend components, responsive and accessible UI, structured CMS content, dynamic routes, and browser-based end-to-end testing.
 
 [![ApotheonAI homepage](https://raw.githubusercontent.com/DanielKhojaste/apotheon-ai/main/screenshots/home-hero.png)](https://apotheon-ai.vercel.app/)
-
-### [ToDone for VS Code](https://marketplace.visualstudio.com/items?itemName=danielkhojaste.todone-vscode)
-
-<p>
-	<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="24" />
-	<img src="./assets/vscode-extension-badge.svg" alt="VS Code Extension" height="24" />
-</p>
-
-A VS Code extension that brings the ToDone plain-text task workflow to VS Code with priorities, task states, notes, commands, outline support, and Sublime ToDone compatibility.
-
-[![ToDone for VS Code](./assets/todone.png)](https://marketplace.visualstudio.com/items?itemName=danielkhojaste.todone-vscode)
 
 <h3 align="center">
   <a href="./PROJECTS.md"><strong>View All Projects →</strong></a>
