@@ -99,7 +99,7 @@ An event-driven engineering operations console for registering, monitoring, and 
 
 A local-first tactical board desktop app for coaches to build line-ups, draw drills, animate plays, organize boards in a library, and store everything as files on their computer.
 
-[![Barça starting XI on the Lineup board](https://raw.githubusercontent.com/DanielKhojaste/lineup/main/docs/screenshots/lineup.png)](https://github.com/DanielKhojaste/lineup)
+[![Barça starting XI on the Lineup board](https://raw.githubusercontent.com/DanielKhojaste/lineup/main/screenshots/lineup.png)](https://github.com/DanielKhojaste/lineup)
 
 ### [ApotheonAI](https://apotheon-ai.vercel.app/)
 
