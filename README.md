@@ -125,6 +125,8 @@ A VS Code extension that brings the ToDone plain-text task workflow to VS Code w
 	width="495"
 />
 
+<br>
+
 🟨 **Build** end to end.
 
 🟨 **Design** with intent.
