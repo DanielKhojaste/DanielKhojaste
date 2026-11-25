@@ -34,34 +34,10 @@ The songs I like to have on while I code and work on my projects. Mostly film an
     />
   </a>
   <br><br>
-  <a href="https://open.spotify.com/track/2MRzU88isUimYDUhPgxcEw">
-    <img
-      src="./assets/songs/recently-played-now-we-are-free.png"
-      alt="Now We Are Free by Ekaterina Shelehova and Emanuele Tedeschi"
-      width="80%"
-    />
-  </a>
-  <br><br>
   <a href="https://open.spotify.com/track/6GnHyBBUwSC0hvdi3G6ZVW">
     <img
       src="./assets/songs/recently-played-valgame-dios.png"
       alt="Válgame Dios by Niña Pastori and Antonio Orozco"
-      width="80%"
-    />
-  </a>
-  <br><br>
-  <a href="https://open.spotify.com/track/3p6gkqKpSDUwIVY2ACcM2T">
-    <img
-      src="./assets/songs/recently-played-supermen.png"
-      alt="Supermen by Dino Merlin and Željko Joksimović"
-      width="80%"
-    />
-  </a>
-  <br><br>
-  <a href="https://open.spotify.com/track/170yC1xDfjyYRkL2JFFAL1">
-    <img
-      src="./assets/songs/recently-played-dark-horse.png"
-      alt="Dark Horse by Amanda Marshall"
       width="80%"
     />
   </a>
@@ -82,10 +58,34 @@ The songs I like to have on while I code and work on my projects. Mostly film an
     />
   </a>
   <br><br>
+  <a href="https://open.spotify.com/track/170yC1xDfjyYRkL2JFFAL1">
+    <img
+      src="./assets/songs/recently-played-dark-horse.png"
+      alt="Dark Horse by Amanda Marshall"
+      width="80%"
+    />
+  </a>
+  <br><br>
+  <a href="https://open.spotify.com/track/2MRzU88isUimYDUhPgxcEw">
+    <img
+      src="./assets/songs/recently-played-now-we-are-free.png"
+      alt="Now We Are Free by Ekaterina Shelehova and Emanuele Tedeschi"
+      width="80%"
+    />
+  </a>
+  <br><br>
   <a href="https://open.spotify.com/track/06WgOCf0LV2h4keYXDRnuh">
     <img
       src="./assets/songs/recently-played-clean.png"
       alt="Clean by Taylor Swift"
+      width="80%"
+    />
+  </a>
+  <br><br>
+  <a href="https://open.spotify.com/track/3p6gkqKpSDUwIVY2ACcM2T">
+    <img
+      src="./assets/songs/recently-played-supermen.png"
+      alt="Supermen by Dino Merlin and Željko Joksimović"
       width="80%"
     />
   </a>
