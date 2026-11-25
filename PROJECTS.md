@@ -29,7 +29,7 @@ A local-first tactical board desktop app for coaches to build line-ups, draw dri
 	<img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" height="24" />
 	<img src="https://img.shields.io/badge/Sanity_CMS-111111?style=flat-square&logo=sanity&logoColor=white" alt="Sanity CMS" height="24" />
 	<img src="https://img.shields.io/badge/GROQ-111111?style=flat-square&logo=sanity&logoColor=white" alt="GROQ" height="24" />
-	<img src="./assets/playwright-badge.svg" alt="Playwright" height="24" />
+	<img src="./assets/badges/playwright-badge.svg" alt="Playwright" height="24" />
 	<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" height="24" />
 </p>
 
@@ -43,14 +43,14 @@ A multi-page AI security website built around reusable frontend components, resp
 
 <p>
 	<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="24" />
-	<img src="./assets/vscode-extension-badge.svg" alt="VS Code Extension" height="24" />
+	<img src="./assets/badges/vscode-extension-badge.svg" alt="VS Code Extension" height="24" />
 </p>
 
 [VS Code Marketplace ↗](https://marketplace.visualstudio.com/items?itemName=danielkhojaste.todone-vscode) · [GitHub ↗](https://github.com/DanielKhojaste/ToDone)
 
 A VS Code extension that brings the ToDone plain-text task workflow to VS Code with priorities, task states, notes, commands, outline support, and Sublime ToDone compatibility.
 
-[![ToDone for VS Code](./assets/todone.png)](https://marketplace.visualstudio.com/items?itemName=danielkhojaste.todone-vscode)
+[![ToDone for VS Code](./assets/projects/todone.png)](https://marketplace.visualstudio.com/items?itemName=danielkhojaste.todone-vscode)
 
 ## PlantPlotter
 
@@ -65,7 +65,7 @@ A VS Code extension that brings the ToDone plain-text task workflow to VS Code w
 
 A stakeholder-driven team project where I worked on data extraction, software quality, deployment, and debugging. We met frequently with the stakeholder to review our progress, discuss feedback, and determine what needed to be done next, while our project manager led the team using a Kanban board.
 
-[![PlantPlotter](./assets/plantplotter.png)](https://www.plantplotter.app/)
+[![PlantPlotter](./assets/projects/plantplotter.png)](https://www.plantplotter.app/)
 
 ## DK8s
 
@@ -83,4 +83,4 @@ A stakeholder-driven team project where I worked on data extraction, software qu
 
 An event-driven engineering operations console for registering, monitoring, and managing service lifecycles. DK8s combines Java and Spring Boot services, PostgreSQL, Solace PubSub+, a React operations UI, containers, automated tests, and CI around asynchronous deployment workflows.
 
-[![DK8s dashboard](./assets/dk8s-dashboard.png)](https://github.com/DanielKhojaste/dk8s)
+[![DK8s dashboard](./assets/projects/dk8s-dashboard.png)](https://github.com/DanielKhojaste/dk8s)

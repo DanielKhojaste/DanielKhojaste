@@ -10,7 +10,7 @@ I turn ideas into polished, working software, from the first screen to the final
 
 <br>
 
-<img src="./assets/Daniel's Odyssey - Cover.png" alt="Daniel Khojaste" width="700" />
+<img src="./assets/profile/Daniel's Odyssey - Cover.png" alt="Daniel Khojaste" width="700" />
 
 </div>
 
@@ -64,7 +64,7 @@ I'm a graduate of Algonquin College's **Web Development & Internet Applications*
 	</tr>
 	<tr>
 		<td align="left" valign="middle"><strong>AI Development</strong></td>
-		<td align="left" valign="middle"><img src="./assets/codex.svg" alt="OpenAI Codex" title="OpenAI Codex" width="48" height="48" />&nbsp;&nbsp;<img src="./assets/claude-code.svg" alt="Claude Code" title="Claude Code" width="48" height="48" />&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/cursor-dark.svg" /><img src="./assets/cursor-light.svg" alt="Cursor" title="Cursor" width="48" height="48" /></picture>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/github-copilot-dark.svg" /><img src="./assets/github-copilot-light.svg" alt="GitHub Copilot" title="GitHub Copilot" width="48" height="48" /></picture></td>
+		<td align="left" valign="middle"><img src="./assets/icons/codex.svg" alt="OpenAI Codex" title="OpenAI Codex" width="48" height="48" />&nbsp;&nbsp;<img src="./assets/icons/claude-code.svg" alt="Claude Code" title="Claude Code" width="48" height="48" />&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/cursor-dark.svg" /><img src="./assets/icons/cursor-light.svg" alt="Cursor" title="Cursor" width="48" height="48" /></picture>&nbsp;&nbsp;<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/icons/github-copilot-dark.svg" /><img src="./assets/icons/github-copilot-light.svg" alt="GitHub Copilot" title="GitHub Copilot" width="48" height="48" /></picture></td>
 	</tr>
 </table>
 
@@ -93,7 +93,7 @@ A local-first tactical board desktop app for coaches to build line-ups, draw dri
 	<img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" height="24" />
 	<img src="https://img.shields.io/badge/Sanity_CMS-111111?style=flat-square&logo=sanity&logoColor=white" alt="Sanity CMS" height="24" />
 	<img src="https://img.shields.io/badge/GROQ-111111?style=flat-square&logo=sanity&logoColor=white" alt="GROQ" height="24" />
-	<img src="./assets/playwright-badge.svg" alt="Playwright" height="24" />
+	<img src="./assets/badges/playwright-badge.svg" alt="Playwright" height="24" />
 	<img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" height="24" />
 </p>
 
@@ -105,12 +105,12 @@ A multi-page AI security website built around reusable frontend components, resp
 
 <p>
 	<img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" height="24" />
-	<img src="./assets/vscode-extension-badge.svg" alt="VS Code Extension" height="24" />
+	<img src="./assets/badges/vscode-extension-badge.svg" alt="VS Code Extension" height="24" />
 </p>
 
 A VS Code extension that brings the ToDone plain-text task workflow to VS Code with priorities, task states, notes, commands, outline support, and Sublime ToDone compatibility.
 
-[![ToDone for VS Code](./assets/todone.png)](https://marketplace.visualstudio.com/items?itemName=danielkhojaste.todone-vscode)
+[![ToDone for VS Code](./assets/projects/todone.png)](https://marketplace.visualstudio.com/items?itemName=danielkhojaste.todone-vscode)
 
 <h3 align="center">
   <a href="./PROJECTS.md"><strong>View All Projects →</strong></a>
@@ -169,6 +169,6 @@ I'm based in Canada and I'm willing to relocate. If you have a stack or a challe
 
 <br />
 
-<img src="./assets/dk_purple_cropped.svg" alt="DK logo" width="56" />
+<img src="./assets/profile/dk_purple_cropped.svg" alt="DK logo" width="56" />
 
 </div>
