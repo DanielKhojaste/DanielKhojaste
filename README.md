@@ -142,7 +142,7 @@ A VS Code extension that brings the ToDone plain-text task workflow to VS Code w
 <div align="center">
   <a href="https://open.spotify.com/track/1aQUGQ7AcRxk96SX69gd4S">
     <img
-      src="./assets/recently-played-desert-chant.png"
+      src="./assets/songs/recently-played-desert-chant.png"
       alt="Desert Chant by Timothée Chalamet and Hans Zimmer, recently played card"
       width="80%"
     />
@@ -150,6 +150,10 @@ A VS Code extension that brings the ToDone plain-text task workflow to VS Code w
   <br><br>
   <i>Click the card to listen on Spotify</i>
 </div>
+
+<h3 align="center">
+  <a href="./MUSIC.md"><strong>View All Songs →</strong></a>
+</h3>
 
 ## Get in touch
 
